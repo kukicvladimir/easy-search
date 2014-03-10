@@ -1,0 +1,16 @@
+{
+  "name": "table-filter-plugin",
+  "description": "Table filtering plugin.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "coffee-script": "latest",
+    "mocha": "latest",
+    "twitter-bootstrap": "latest"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
